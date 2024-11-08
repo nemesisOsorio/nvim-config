@@ -132,6 +132,8 @@ return {
           "kotlin_language_server",
           "groovyls",
           "gopls",
+          "pyright",
+          "tsserver",
         },
         handlers = {
           function(server_name)
