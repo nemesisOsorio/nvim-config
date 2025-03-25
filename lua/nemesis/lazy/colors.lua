@@ -39,7 +39,7 @@ return {
         dim_inactive_windows = false,
         extend_background_behind_borders = true,
       })
-      ColorMyPencils("rose-pine-dawn")
+      ColorMyPencils("rose-pine-moon")
     end,
   }
 }
