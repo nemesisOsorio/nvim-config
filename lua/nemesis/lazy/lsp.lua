@@ -134,6 +134,7 @@ return {
           "gopls",
           "pyright",
           "tsserver",
+          "hls",
         },
         handlers = {
           function(server_name)
