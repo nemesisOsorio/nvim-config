@@ -18,7 +18,7 @@ return {
       vim.keymap.set('n', '<leader>fl', builtin.live_grep, {})
       vim.keymap.set('n', '<leader>fr', builtin.lsp_references, {})
       vim.keymap.set('n', '<leader>fi', builtin.lsp_implementations, {})
-      vim.keymap.set('n', '<leader>fm', builtin.lsp_document_symbols, {})
+      vim.keymap.set('n', '<leader>fp', builtin.lsp_document_symbols, {})
 
       vim.keymap.set('n', '<leader>gs', builtin.git_status, {})
     end,
